@@ -1,4 +1,4 @@
-Не правилно выполненно задание. Задание переделано https://github.com/PavelSDV/FinalProject
+Не правильно выполненно задание. Задание переделано https://github.com/PavelSDV/FinalProject
 ---------------
 
 
